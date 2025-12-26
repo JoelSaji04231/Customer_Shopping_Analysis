@@ -15,7 +15,7 @@ The dataset used in this project is sourced from the [Customer Trends Data Analy
 - **`customer_shopping_analysis.py`**: A Python script that loads the raw CSV data, performs data cleaning and feature engineering (e.g., creating age groups, standardizing columns), and uploads the processed data to a PostgreSQL database.
 - **`behaviour.sql`**: A collection of SQL queries used to extract key insights from the database, such as revenue by gender, customer segmentation, and product performance.
 - **`Customer_Shopping_Dashboard.pbix`**: A Power BI dashboard file that visualizes the data and insights.
-- **`customer_shopping_behavior.csv`**: The raw dataset used for analysis (not included in repo, see **Data Source**).
+- **`customer_shopping_behavior.csv`**: The raw dataset used for analysis (not included in repo, see **Data Source**.
 
 ## Prerequisites
 
